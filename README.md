@@ -60,34 +60,6 @@ app/
 
 ---
 
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="C:\Users\Talha\Desktop\UET\SEMESTER 6\MAD\2023-CS-70 MAD Assignment 7\Contact_app_recycler_view\app\src\main\res\screenshots\1.jpeg" width="300"/>
-      <br/>
-      <b>Add Contact Screen</b>
-    </td>
-    <td align="center">
-      <img src="C:\Users\Talha\Desktop\UET\SEMESTER 6\MAD\2023-CS-70 MAD Assignment 7\Contact_app_recycler_view\app\src\main\res\screenshots\2.jpeg" width="300"/>
-      <br/>
-      <b>Contacts List Screen</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="C:\Users\Talha\Desktop\UET\SEMESTER 6\MAD\2023-CS-70 MAD Assignment 7\Contact_app_recycler_view\app\src\main\res\screenshots\3.jpeg" width="300"/>
-      <br/>
-      <b>Edit Contact Dialog</b>
-    </td>
-    <td align="center">
-      <img src="C:\Users\Talha\Desktop\UET\SEMESTER 6\MAD\2023-CS-70 MAD Assignment 7\Contact_app_recycler_view\app\src\main\res\screenshots\4.jpeg" width="300"/>
-      <br/>
-      <b>Search & Sort Feature</b>
-    </td>
-  </tr>
-</table>
 
 ---
 
